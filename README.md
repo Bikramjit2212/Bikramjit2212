@@ -1,5 +1,25 @@
-# 💫 About Me:
-🚀 I am a results-driven DevOps & Cloud Engineering aspirant with a solid foundation in Linux, Git, Docker, CI/CD pipelines, Jenkins, and AWS. Backed by an engineering background, I have hands-on experience designing and implementing automation-centric solutions that effectively bridge development and operations.<br><br>📊 Parallelly, I lead marketing and management at a software development company, which has shaped a business-first mindset, strong ownership, and a deep appreciation for delivering measurable outcomes. I strongly believe in learning through execution, maintaining clear documentation, and continuously improving systems to achieve reliability, performance, and scalability.<br><br>🔧 At present, I am deeply focused on real-world DevOps projects, cloud-native deployments ☁️, and production-grade automation, with the goal of being job-ready and impactful from day one.<br><br>⚙️ Tech Focus: Linux 🐧 | Git 🌱 | Docker 🐳 | CI/CD 🔁 | Jenkins 🤖 | AWS ☁️ | Automation<br><br>🧠 Mindset: Build 🛠️ → Break 💥 → Fix 🔧 → Optimize 🚀
+# 💫 Bikramjit Roy:
+<h3>DevOps & Cloud Engineering | Open to Junior DevOps / Cloud / AWS Engineer Roles</h3><br>
+
+B.Tech Electrical Engineer who self-transitioned into DevOps through hands-on project building.<br><br>
+🚀 I am a results-driven DevOps & Cloud Engineering with a solid foundation in Linux, Git, Docker, CI/CD pipelines, Jenkins, and AWS. Backed by an engineering background, I have hands-on experience designing and implementing automation-centric solutions that effectively bridge development and operations. I design and implement real infrastructure — CI/CD pipelines, AWS cloud environments, container orchestration, and observability stacks — independently, from scratch<br><br>
+
+📊 Previously led technical operations at a software development company, which gave me exposure to the full SDLC and a strong delivery mindset alongside my DevOps practice. I strongly believe in learning through execution, maintaining clear documentation, and continuously improving systems to achieve reliability, performance, and scalability.<br><br>
+
+🔧 At present, I am deeply focused on real-world DevOps projects, cloud-native deployments ☁️, and production-grade automation, with the goal of being job-ready and impactful from day one.⚙️ <br><br>
+
+🔧 **Currently building with:** <br>
+Linux · Git · Docker · Kubernetes · Jenkins · GitHub Actions · Terraform · Ansible · Prometheus · Grafana · ELK · AWS
+
+📚 **Currently learning:** <br>
+Helm · ArgoCD · GitOps · AWS SAA-C03
+
+💼 **Actively looking for** <br> 
+Entry-level DevOps, Cloud, or AWS Engineer roles. Open to Junior DevOps / Cloud / AWS Engineer Roles in remote, hybrid, onsite based positions.
+
+📫 bikramjitroy20@gmail.com
+Tech Focus: Linux 🐧 | Git 🌱 | Docker 🐳 | CI/CD 🔁 | Jenkins 🤖 | AWS ☁️ | Automation<br><br>
+🧠 Mindset: Build 🛠️ → Break 💥 → Fix 🔧 → Optimize 🚀
 
 
 ## 🌐 Socials:
